@@ -1,2 +1,2 @@
-# AI-Lab
-Lab for AI and Recommendation system
+# DeepLearning_practice
+Playgroud for deep learning
