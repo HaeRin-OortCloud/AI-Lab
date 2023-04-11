@@ -1,2 +1,2 @@
-# DeepLearning_practice
-Playgroud for deep learning
+# DeepLearning practice
+
